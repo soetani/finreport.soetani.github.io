@@ -23,6 +23,10 @@ h1 {
     margin: 40px auto 100px;
     padding: 0;
 }
+h1 img {
+    max-width: 100%;
+    height: auto;
+}
 p {
     margin: 60px 0 40px;
     font-size: 14px;
